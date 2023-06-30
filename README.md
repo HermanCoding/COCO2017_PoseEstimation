@@ -2,8 +2,8 @@
 Examination in the course Artificial Intelligence 2 for NBI/Handelsakademin.
 
 Clone this repository into a folder of your choosing, then open up your favorit terminal and navigate 
-to the project (create a virtual environment and activate or don't, it's up to you) and run:
-pip install -r requirements.txt
+to the project (create a virtual environment and activate or don't, it's up to you) and run:  
+pip install -r requirements.txt  
 py -m streamlit run Streamlit_app.py (py might be python for you)
 
 Be amazed 🤩
@@ -22,7 +22,7 @@ Youtube-presentation:
 Dataset:
 * [https://cocodataset.org/]()
 
-Model:
+Object detection algorithm:
 * [https://docs.ultralytics.com]()
 
 Library:
