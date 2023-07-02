@@ -2,3 +2,5 @@
 datasets
 /.ipynb_checkpoints/
 /runs/
+/yolov8n.pt
+/yolov8n-pose.pt

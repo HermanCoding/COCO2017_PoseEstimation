@@ -15,7 +15,7 @@ Check them out:
 * [TrainTestVal](TrainTestVal.ipynb)
 
 Youtube-presentation:
-* 
+* https://youtu.be/ShUBZbTivSw
 
 ### References and Acknowledgments
 
