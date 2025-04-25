@@ -1,3 +1,6 @@
+⚠️ This repository is archived and no longer maintained.
+This project is no longer actively developed or supported. Feel free to fork it if you wish to continue working on it.
+
 # COCO2017_PoseEstimation
 Examination in the course Artificial Intelligence 2 for NBI/Handelsakademin.
 
